@@ -1,4 +1,4 @@
-/*Debugging class I method to test my logic for two things
+/*Debugging class I made to test my logic for two things
  1) motion at the edges
  2) intersection algo
  */
